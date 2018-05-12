@@ -1,9 +1,13 @@
 _repo: Les-Miserables-v-5-5-Fantine-Cosette-Marius-The-Idyll-and-the-Epic-Jean-Valjean_48735
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Wraxall, Frederic Charles Lascelles
     gutenberg_agent_id: '44948'
     url: http://www.gutenberg.org/2009/agents/44948
+covers:
+- cover_type: archival
+  image_path: 48735-h/images/cover.jpg
 creator:
   author:
     agent_name: Hugo, Victor
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/85
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48735#Les-Miserables-v-5-5-Fantine-Cosette-Marius-The-Idyll-and-the-Epic-Jean-Valjean
 gutenberg_issued: '2015-04-18'
 gutenberg_type: Text
 identifiers:
