@@ -28,6 +28,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Les Misérables, v. 5-5
 
   Fantine - Cosette - Marius - The Idyll and the Epic - Jean Valjean'
